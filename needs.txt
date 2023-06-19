@@ -1,0 +1,6 @@
+What you will need:
+- Arduino UNO
+- LCD Display (16x2) 0x27
+- DHT Sensor DHT11
+- RTC DS1302
+- Led RGB Clr
